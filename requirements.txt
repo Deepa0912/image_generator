@@ -1,4 +1,5 @@
 flask
+gunicorn
 huggingface_hub
 Pillow
 python-dotenv
